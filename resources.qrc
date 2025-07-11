@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/back.jpg</file>
+        <file>images/dinamitt.png</file>
+        <file>images/patlamma.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>documents/konumlar.txt</file>
+        <file>documents/skorlar.txt</file>
+    </qresource>
+</RCC>
